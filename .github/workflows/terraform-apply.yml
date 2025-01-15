@@ -10,7 +10,7 @@ on:
 env:
   TF_CLOUD_ORGANIZATION: "OmegaWolf1"
   TF_API_TOKEN: "${{ secrets.TF_API_TOKEN_2 }}"
-  TF_WORKSPACE: "learn-terraform-github-actions"
+  TF_WORKSPACE: "learn-terraform-github-actions2"
   CONFIG_DIRECTORY: "./"
 
 jobs:
